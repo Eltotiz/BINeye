@@ -16,7 +16,7 @@ print(Fore.WHITE + """	██████╗ ██╗███╗   ██╗  
 	╚═════╝ ╚═╝╚═╝  ╚═══╝    ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝     
 """)
 print("")
-print(Fore.BLUE + "		Created by github.com/Ambu-Corporation")
+print(Fore.BLUE + "		Created by github.com/Eltotiz")
 print("""
     [1] BIN Scan       [2] BIN Force Brute
 
