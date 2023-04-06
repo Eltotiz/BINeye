@@ -14,7 +14,7 @@ echo -e """\e[1;37m
 """
 
                                                
-echo -e "\e[1;34m                  Created by github.com/Ambu-Corporation"
+echo -e "\e[1;34m                  Created by github.com/Eltotiz"
 echo
 echo
 
@@ -34,7 +34,7 @@ echo -e """\e[1;37m
 """
 
                                                
-echo -e "\e[1;34m                  Created by github.com/Ambu-Corporation"
+echo -e "\e[1;34m                  Created by github.com/Eltotiz"
 echo
 echo "   Escaneando $bin ..."
 echo
